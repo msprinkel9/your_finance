@@ -25,7 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Image](https://msprinkel9.github.io/your_finance/plotly_test.html)
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://msprinkel9.github.io/your_finance/plotly_test.html" height="525" width="100%"></iframe>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
