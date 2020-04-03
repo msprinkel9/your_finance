@@ -22,8 +22,12 @@ Goals and Current Balances
 
 Two column bars for each category, one budget, one actual
 
+Bills, Variable, One-off
+
 ### Investment Performance
 
 ### Forecasted Balances
+
+### Mapping Diagram 
 
 
