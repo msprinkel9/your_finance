@@ -1,39 +1,29 @@
-## your_finance
+## your_finance dashboard
 
-You can use the [editor on GitHub](https://github.com/msprinkel9/your_finance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Say some stuff here that's just normal text
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Current Balances
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://msprinkel9.github.io/your_finance/plotly_test.html" height="525" width="100%"></iframe>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Savings Buckets
 
-### Jekyll Themes
+Goals and Current Balances
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msprinkel9/your_finance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Net Worth
 
-### Support or Contact
+### Spending Over Time
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Income Over Time
+
+### Net Income Over Time
+
+### Budget
+
+Two column bars for each category, one budget, one actual
+
+### Investment Performance
+
+### Forecasted Balances
+
+
